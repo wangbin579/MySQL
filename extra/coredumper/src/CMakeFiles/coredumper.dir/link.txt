@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcoredumper.a  CMakeFiles/coredumper.dir/coredumper.c.o CMakeFiles/coredumper.dir/thread_lister.c.o CMakeFiles/coredumper.dir/elfcore.cc.o CMakeFiles/coredumper.dir/linuxthreads.cc.o
+/usr/bin/ranlib libcoredumper.a
